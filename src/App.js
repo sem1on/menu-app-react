@@ -21,7 +21,6 @@ function App() {
         setMenuItems(newItems);
     }
 
-    
     return (
         <main>
             <section className="menu section">
